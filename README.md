@@ -11,6 +11,10 @@ https://blog.csdn.net/u011943791/article/details/80287053
 https://support.huaweicloud.com/usermanual-iothub/iot_01_0019.html
 
 
+华为云：设备接入 IoTDA开发
+https://www.huaweicloud.com/product/iothub.html
+
+
 Azure 门户管理设备注册
 
 https://docs.azure.cn/zh-cn/iot-dps/how-to-manage-enrollments
