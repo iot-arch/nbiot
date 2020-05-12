@@ -22,6 +22,20 @@ https://cloud.tencent.com/document/product/1086/35981
 
 
  物联网设备身份认证 > 快速入门
+ 
 https://cloud.tencent.com/document/product/1086/35606
 
-[开发指南](https://github.com/tencentyun/qcloud-documents/tree/master/product/%E7%89%A9%E8%81%94%E7%BD%91/%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E5%A4%87%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81)
+[腾讯云IOT设备接入开发指南](https://github.com/tencentyun/qcloud-documents/tree/master/product/%E7%89%A9%E8%81%94%E7%BD%91/%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E5%A4%87%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81)
+
+阿里云发布IOT设备身份认证_与腾讯云必有一战
+
+http://m.elecfans.com/article/1215588.html
+
+阿里云IoT设备身份认证
+
+https://cn.aliyun.com/product/iotid
+
+
+【和你一起聊聊NB-IoT】OneNET平台DTLS加密简要说明
+
+https://zhuanlan.zhihu.com/p/72773791?from_voters_page=true
