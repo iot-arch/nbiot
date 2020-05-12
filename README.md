@@ -6,6 +6,11 @@
 https://blog.csdn.net/u011943791/article/details/80287053
 
 
+华为云：设备接入 IoTDA > 用户指南> 设备> 设备鉴权
+
+https://support.huaweicloud.com/usermanual-iothub/iot_01_0019.html
+
+
 Azure 门户管理设备注册
 
 https://docs.azure.cn/zh-cn/iot-dps/how-to-manage-enrollments
@@ -35,6 +40,9 @@ http://m.elecfans.com/article/1215588.html
 
 https://cn.aliyun.com/product/iotid
 
+阿里云设备厂商对接流程
+
+https://help.aliyun.com/document_detail/142734.html?spm=a2c4g.11186623.2.35.59944a2eX9Vr7O
 
 【和你一起聊聊NB-IoT】OneNET平台DTLS加密简要说明
 
