@@ -12,6 +12,7 @@ https://support.huaweicloud.com/usermanual-iothub/iot_01_0019.html
 
 
 华为云：设备接入 IoTDA开发
+
 https://www.huaweicloud.com/product/iothub.html
 
 
@@ -36,9 +37,6 @@ https://cloud.tencent.com/document/product/1086/35606
 
 [腾讯云IOT设备接入开发指南](https://github.com/tencentyun/qcloud-documents/tree/master/product/%E7%89%A9%E8%81%94%E7%BD%91/%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E5%A4%87%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81)
 
-阿里云发布IOT设备身份认证_与腾讯云必有一战
-
-http://m.elecfans.com/article/1215588.html
 
 阿里云IoT设备身份认证
 
